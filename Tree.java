@@ -1,4 +1,4 @@
-// Define your tree class in this file!
+// Define your tree class in this file
 public class Tree{
     public static void main(String[] args){
       //We’re going to introduce ourselves and print a tree to the screen. 
